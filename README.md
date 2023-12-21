@@ -19,5 +19,3 @@ The core implementation is done in python using Tensor flow.
 4. Source data set can be downloaded from https://www.kaggle.com/oddrationale/mnist-in-csv
 
 
-# Implementation details
-
